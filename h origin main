@@ -1,0 +1,23 @@
+[33mcommit 06d7ea8e6aabb546acafc2bcb6113460e50cc11f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: garzaGadgets <144254271+garzaGadgets@users.noreply.github.com>
+Date:   Tue Sep 26 13:51:28 2023 -0500
+
+    Made the emu even hungrier
+
+[33mcommit 05edcaf1f21322298ef11f3595919935068055a5[m
+Author: garzaGadgets <144254271+garzaGadgets@users.noreply.github.com>
+Date:   Tue Sep 26 13:49:39 2023 -0500
+
+    "Now the emu bites three times"
+
+[33mcommit d21e4d977430b9aaf5c7e4c4ac185f7406513b60[m
+Author: Sofia <sofiagarza22@augustana.edu>
+Date:   Tue Sep 26 13:42:23 2023 -0500
+
+    Added hungry emu and appropriate warning
+
+[33mcommit e44315b6a4b6a9cf10119d69e3d06faabc52556c[m
+Author: garzaGadgets <144254271+garzaGadgets@users.noreply.github.com>
+Date:   Tue Sep 26 13:06:38 2023 -0500
+
+    Initial commit
